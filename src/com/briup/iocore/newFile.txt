@@ -1,0 +1,2 @@
+普通字符串
+com.briup.iocore.PrintStreamTest@15db9742
